@@ -46,10 +46,7 @@ General representation of SQL prowess in practice. These are a representation of
 <img width="452" alt="question 8 query" src="https://user-images.githubusercontent.com/116355407/232317026-2911c72a-22b3-4edf-b296-8797503b539b.png">
 
 ## Conclusions:
--The Vis Wizards delivered a very strong performance
--Alvin Ali and Jamya Dodson were the leading goal scorers 
--The Data Cleaners had the weakest performance and were 1/2 teams that had a negative goal difference
--The Data Cleaners also need to monitor player behaviour and conduct as they accumulated the most red cards all season
+The Vis Wizards delivered a very strong performance. Alvin Ali and Jamya Dodson were the leading goal scorers. The Data Cleaners had the weakest performance and were 1/2 teams that had a negative goal difference. The Data Cleaners also need to monitor player behaviour and conduct as they accumulated the most red cards all season
 
 ## Reflections:
 This was the first experience of ER design. This process takes time but an essential one when a relational database is created. If one person is assigned to the task it can take days but with multiple people, it can be completed within the day.
