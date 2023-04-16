@@ -9,6 +9,7 @@ The company was running a football tournament that consisted of 6 players aside,
 ## ER Design: 
 1st experience of drafting an entity relationship diagram. This would summarise structured data through many-to-one and one-to-many connections.
 
+
 ![ER design for football tournament](https://user-images.githubusercontent.com/116355407/232313034-7a1c1f8b-970f-40ff-b2c6-f92e89930421.png)
 This is a diagram of normalising a database. This helps improve the speed, accuracy and efficiency of the database when executing queries. This was organised via:
 
